@@ -1,9 +1,8 @@
 # LLM_PowerBi
-Here's a `README.md` file for your AI-Enhanced Interactive Dashboard project:
 
 ---
 
-# **AI-Enhanced Interactive Dashboard Builder**
+# **LLM_PowerBi is kind of AI-Enhanced Interactive Dashboard Builder**
 
 An interactive AI-powered dashboard builder that provides insightful visualizations such as bar charts, line charts, scatter plots, and heatmaps. The dashboard dynamically adjusts based on user input and provides trend analysis, predictions, and anomaly detection.
 
