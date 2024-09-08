@@ -43,7 +43,9 @@ python app.py
 - **KPI Column**: Specify which column in your dataset represents the KPI values.
 - **Adjust KPI**: Use the slider to adjust KPI values dynamically.
 - **View Visualizations**: The AI will automatically generate a variety of charts and graphs based on the data and provide insights.
-  
+  ![111](https://github.com/user-attachments/assets/160bae9f-7852-4443-a4b5-85fee4933fbd)
+
+![222](https://github.com/user-attachments/assets/7ba426d3-e6ab-4d51-bf62-896818ec6483)
 
 
 ### **4. Features**
