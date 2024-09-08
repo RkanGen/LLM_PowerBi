@@ -205,7 +205,7 @@ interface = gr.Interface(
     fn=dashboard_interface,
     inputs=[
         gr.Textbox(label="Data Type", placeholder="e.g., Sales Data, Weather Data"),
-        gr.Textbox(label="Data (CSV format)", placeholder="Paste your CSV data here"),
+        gr.File(label="Upload CSV File"),
         gr.Textbox(label="KPI Column", placeholder="Enter the KPI column name"),
         gr.Textbox(label="Category Column", placeholder="Enter the category column name"),
         gr.Textbox(label="Date Column", placeholder="Enter the date column name"),
