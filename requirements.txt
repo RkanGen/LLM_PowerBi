@@ -1,0 +1,7 @@
+groq 
+pandas 
+gradio
+numpy 
+matplotlib 
+plotly
+python-dotenv
